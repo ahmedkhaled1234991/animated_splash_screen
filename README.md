@@ -1,16 +1,14 @@
 # animated_splash_screen
 
-A new Flutter project.
+## Packages
 
-## Getting Started
+- flutter native splash
+- video player
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+  <video src="https://github.com/ahmedkhaled1234991/animated_splash_screen/assets/22778145/2f023636-447b-4ad4-be51-969a6a01b646"/>
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
